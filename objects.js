@@ -1,3 +1,3 @@
 var playlist = {
-  Greta Van Fleet: 'Highway Tunes'
+  'Greta Van Fleet': 'Highway Tune'
 }
